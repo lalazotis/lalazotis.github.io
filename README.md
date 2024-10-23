@@ -28,10 +28,10 @@ Membro do power4girls 2024 com o projeto GreenCiclo.
 [Golfinhoa fumando um baiacu](https://youtu.be/l_CkUcTPzoE)
 
 ###### PROGRAMAÇÃO
-:smile: :fire: :file_folder: :space_invader: :computer:  
+:smile: :computer:  
 ~~~python
 s = "lalazotis bacanissima"
 print s
 ~~~
     
->"oi" - Mãe - 2024
+>"blup blup blop blop" - Algum tubarão neste momento - 2024
