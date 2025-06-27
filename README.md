@@ -25,7 +25,7 @@ Membro do power4girls 2024 com o projeto GreenCiclo.
   >"A laís sabe fazer estrelinha" - Mãe - 2024
 
 
-[Golfinhoa fumando um baiacu](https://youtu.be/l_CkUcTPzoE)
+[Golfinho fumando um baiacu](https://youtu.be/l_CkUcTPzoE)
 
 ###### PROGRAMAÇÃO
 :smile: :computer:  
